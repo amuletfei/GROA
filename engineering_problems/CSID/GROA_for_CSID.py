@@ -3,7 +3,7 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
-# EROAS V4
+# GROA V4
 class ROA():
     def __init__(self, fun_num):
         self.Search_Agents = 50
