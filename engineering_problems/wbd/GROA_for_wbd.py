@@ -3,7 +3,7 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
-# EROAS V4
+# GROA V4
 E = 30000000
 G = 12000000
 L = 14
